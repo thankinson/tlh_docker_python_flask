@@ -10,6 +10,3 @@ run this in the directory the Dockerfiel is located :
 example
   
 -- docker build -t someuser/python:tagexample .
-  
-to run:
-- docker run -d -p 5000:5000 thankinson/python:test
